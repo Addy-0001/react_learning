@@ -29,7 +29,7 @@ function App() {
       <h1>Let's Get Started</h1>
       <Expenses items={expenses} />
     </div>
-  );
+  )
 }
 
 export default App;
